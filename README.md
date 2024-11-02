@@ -77,4 +77,4 @@ I'm diving deeper into **Next.js** to build optimized, server-rendered web appli
 
 ---
 
-![Footer Image](https://via.placeholder.com/1000x200.png?text=Thank+You+for+Visiting&bg=000000&fg=FFFFFF)
+![Footer Image](./footer.png)
