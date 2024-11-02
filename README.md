@@ -1,6 +1,6 @@
 # Hi there, I'm Ankit Singh! 👋
 
-![Header Image](./github-header-image.png)
+![Header Image](./header-image.png)
 
 I'm a passionate software engineer specializing in **ERB Development** with a strong background in **MERN Stack**, **Next.js**, **Data Structures & Algorithms**, **C/C++**, and **Databases** (SQL and NoSQL). I enjoy tackling complex problems and delivering efficient, scalable solutions.
 
