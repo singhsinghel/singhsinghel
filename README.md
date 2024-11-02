@@ -40,13 +40,24 @@ I'm a passionate software engineer specializing in **ERB Development** with a st
 
 ## 📌 Featured Projects
 
-### [Staffify - Employee Management System](https://staffifyfrontend.onrender.com)
-An intuitive employee management website for efficient HR operations. It includes task management, employee profiles, and performance tracking.
+### 🍱 [Yummy Bento](https://yummy-bento.onrender.com/)
+An all-in-one platform for food organization and task management, **Yummy Bento** comes with an advanced **Admin Panel** and **Stripe payment integration**. Perfect for managing culinary tasks and tracking meals seamlessly!  
+**Live Demo**: [yummy-bento.onrender.com](https://yummy-bento.onrender.com/)  
+**GitHub Repository**: [GitHub - Yummy Bento](https://github.com/singhsinghel/Yummy_bento)
 
-![Staffify Screenshot](https://via.placeholder.com/800x400.png?text=Staffify+Employee+Management&bg=000000&fg=FFFFFF)
+---
 
-### [Yummy Bento](https://github.com/ankitsinghel/YummyBento)
-A delightful project focused on food and efficiency. Features include task management, filtering, and more!
+### 🏢 [Staffify - Employee Management System](https://staffifyfrontend.onrender.com/)
+**Staffify** is a comprehensive employee management platform designed to streamline HR tasks with numerous features. It includes an **Admin Panel** with tools to **assign tasks**, **reassign tasks if failed**, and **add comments** to enhance team collaboration.  
+**Live Demo**: [staffifyfrontend.onrender.com](https://staffifyfrontend.onrender.com/)  
+**GitHub Repository**: [GitHub - Staffify](https://github.com/singhsinghel/StaffifyFrontend)
+
+---
+
+### 🏠 [VivaVyouge - Airbnb Clone](https://vivavyouge.onrender.com/listings)
+**VivaVyouge** brings the best of Airbnb to life with an interactive property listing experience. It features a **rating system** for properties, allowing users to review and discover highly-rated stays.  
+**Live Demo**: [vivavyouge.onrender.com](https://vivavyouge.onrender.com/listings)  
+**GitHub Repository**: [GitHub - VivaVyouge](https://github.com/singhsinghel/VivaVyouge)
 
 ---
 
