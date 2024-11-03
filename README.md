@@ -76,5 +76,3 @@ I'm diving deeper into **Next.js** to build optimized, server-rendered web appli
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:singhelboyankit@gmail.com)
 
 ---
-
-![Footer Image](./footer.png)
