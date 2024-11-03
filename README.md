@@ -44,7 +44,7 @@ I'm a passionate software engineer specializing in **ERB Development** with a st
 ## 📌 Featured Projects
 
 ### 🍱 [Yummy Bento](https://yummy-bento.onrender.com/)
-An all-in-one platform for food organization and task management, **Yummy Bento** comes with an advanced **Admin Panel** and **Stripe payment integration**. Perfect for managing culinary tasks and tracking meals seamlessly!  
+An all-in-one platform for food organization, **Yummy Bento** comes with an advanced **Admin Panel** and **Stripe payment integration**. Perfect for managing and tracking meals seamlessly!  
 **Live Demo**: [yummy-bento.onrender.com](https://yummy-bento.onrender.com/)  
 **GitHub Repository**: [GitHub - Yummy Bento](https://github.com/singhsinghel/Yummy_bento)
 
